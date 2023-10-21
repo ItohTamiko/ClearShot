@@ -9,8 +9,7 @@ AeroShotCRE is a fork of AeroShot aiming to add features useful to creators of W
 
 ## Changelog
 ### 1.9.5
-* [Microsoft Store only release](https://www.microsoft.com/store/productId/9NNBCDGN1ZS8)
-* Fixed the Browse button in .NET 4.6 builds
+* Fixed the Browse button
 
 ### 1.9.4
 * [Microsoft Store only release](https://www.microsoft.com/store/productId/9NNBCDGN1ZS8)
