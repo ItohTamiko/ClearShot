@@ -7,6 +7,10 @@ AeroShotCRE is a fork of AeroShot aiming to add features useful to creators of W
 * t2 - Fully transparent title bar, inactive
 * mask - A black mask showing the shape of the window without shadows
 
+## Download
+* [Standalone (.exe)](https://github.com/Cvolton/AeroShotCRE/releases/latest/download/AeroShot.exe)
+* [Microsoft Store](https://apps.microsoft.com/detail/9nnbcdgn1zs8)
+
 ## Changelog
 ### 1.9.5
 * Fixed the Browse button
